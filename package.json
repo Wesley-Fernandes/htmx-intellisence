@@ -2,7 +2,7 @@
   "name": "htmx-intellisensce",
   "displayName": "Htmx Intellisence",
   "publisher": "wesley-fernandes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "images/logo.png",
   "keywords": ["Htmx", "htmx", "intellisensce", "snippets", "WesleyFernandes"],
   "license": "ISC",
@@ -27,8 +27,8 @@
     "type": "github"
   },
   "scripts": {
-    "build": "vsce package -o htmx-intellisensce-1.0.0.vsix",
-    "install": "npm run build && code --install-extension htmx-intellisensce-1.0.0.vsix"
+    "build": "vsce package -o htmx-intellisensce-1.0.1.vsix",
+    "install": "npm run build && code --install-extension htmx-intellisensce-1.0.1.vsix"
   }
   
 }
