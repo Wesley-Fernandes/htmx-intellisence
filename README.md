@@ -1,11 +1,11 @@
-# htmx-Tags
+# htmx-intellisence
 
-A extensão htmx-Tags para o VS Code proporciona autocomplemento de atributos htmx e documentação inline para esses atributos. A documentação dos atributos é obtida e analisada a partir da documentação oficial.
+A extensão htmx-intellisence para o VS Code proporciona autocomplemento de atributos htmx e documentação inline para esses atributos. A documentação dos atributos é obtida e analisada a partir da documentação oficial.
 ![Example](https://github.com/Wesley-Fernandes/htmx-intellisence/assets/89518536/04195226-1203-4f98-827d-d2628051e433)
 
 ## Instalação
 
-Você pode instalar a extensão `htmx-intellisensce` no Visual Studio Code Marketplace ou pesquisando por "htmx-tags" no painel de extensões do VS Code.
+Você pode instalar a extensão `htmx-intellisence` no Visual Studio Code Marketplace ou pesquisando por "htmx-intellisence" no painel de extensões do VS Code.
 
 ## Uso
 
@@ -26,7 +26,7 @@ Além disso, você pode passar o mouse sobre um atributo htmx para ver a documen
 
 ## Contribuição
 
-Contribuições para a extensão htmx-Tags são bem-vindas!
+Contribuições para a extensão htmx-intellisence são bem-vindas!
 
 Se você quiser contribuir, por favor, envie um pull request ou abra uma issue no repositório do GitHub:
 
