@@ -5,7 +5,7 @@ A extensão htmx-Tags para o VS Code proporciona autocomplemento de atributos ht
 
 ## Instalação
 
-Você pode instalar a extensão `htmx-tags` no Visual Studio Code Marketplace ou pesquisando por "htmx-tags" no painel de extensões do VS Code.
+Você pode instalar a extensão `htmx-intellisensce` no Visual Studio Code Marketplace ou pesquisando por "htmx-tags" no painel de extensões do VS Code.
 
 ## Uso
 
