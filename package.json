@@ -2,7 +2,7 @@
   "name": "htmx-intellisensce",
   "displayName": "Htmx Intellisence",
   "publisher": "wesley-fernandes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "icon": "images/logo.png",
   "keywords": ["Htmx", "htmx", "intellisensce", "snippets", "WesleyFernandes"],
   "license": "ISC",
