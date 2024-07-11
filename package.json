@@ -1,0 +1,17 @@
+{
+  "name": "htmx-intellisensce",
+  "displayName": "Htmx Intellisence",
+  "publisher": "wesley-fernandes",
+  "version": "0.0.1",
+  "icon": "images/logo.png",
+  "keywords": ["Htmx", "htmx", "intellisensce", "snippets", "WesleyFernandes"],
+  "license": "ISC",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "description": "Intellisence para VSCODE para HTMX.",
+  "contributes": {
+    "html.customData": ["./snippets/html.htmx-data.json"]
+  }
+  
+}
