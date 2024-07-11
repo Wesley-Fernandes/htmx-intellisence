@@ -11,7 +11,20 @@
   },
   "description": "Intellisence para VSCODE para HTMX.",
   "contributes": {
-    "html.customData": ["./snippets/html.htmx-data.json"]
+    "snippets": [
+      {
+      "language": "html",
+      "path": "./snippets/htmx-core-html.json"
+    },
+    {
+      "language": "html",
+      "path": "./snippets/htmx-add-html.json"
+    }
+    ]
+  },
+  "repository": {
+    "url": "https://github.com/Wesley-Fernandes/htmx-intellisence",
+    "type": "github"
   }
   
 }
